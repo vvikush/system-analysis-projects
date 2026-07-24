@@ -33,7 +33,7 @@
 | Swimlane Diagram | Показывает процесс работы барбершопа с распределением ответственности между ролями. | `./diagrams/swimlane-diagram.png` |
 | Additional Swimlane Diagram | Показывает процесс записи и оказания услуги с создаваемыми и обновляемыми артефактами. | `./diagrams/additional-swimlane-diagram.png` |
 | State Diagram | Показывает жизненный цикл визита клиента. | `./diagrams/state-diagram.png` |
-| BPMN Diagram | Показывает ключевой бизнес-процесс оформления онлайн-записи клиента. | `./diagrams/bpmn-booking-process.png` |
+| BPMN Diagram | Показывает ключевой бизнес-процесс оформления онлайн-записи клиента. | `./diagrams/process-bpmn-booking.png` |
 
 ## Data Flow Diagram
 
